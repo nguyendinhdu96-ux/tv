@@ -219,6 +219,10 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=91
 #------------------------Địa phương Miền Nam------------------------#
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg", Tây Ninh TV - Báo và PTTH Tây Ninh
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", ĐNNRTV1 - Báo và PTTH Đồng Nai
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
+https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", ATV2 | Báo và PTTH An Giang
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=35
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD - Báo và PTTH Đồng Tháp
