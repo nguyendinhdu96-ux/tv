@@ -125,61 +125,61 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #------------------------SCTV------------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctv.vtvdigital.vn/2U-saQ9wyXgIZ7hdL-TARg/1781111507/asdfasdvgas2vtvsctv/1/masterh264.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/XCq3jxMmY3bwWPaA5HiTzw/1781111510/manifest/sctv3/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/KFR_Qm_B66sRoU5ETYnezQ/1781111511/manifest/sctv4/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv4
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp", SCTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/KTufUVS-_vHTpXjwJobY5A/1781111516/manifest/sctv7/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctv.vtvdigital.vn/B72GnqxmYVhWQUsT4GkUNg/1781111517/bdnc6qbiq1vtvsctv/8/index.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png", SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/B7QwcIu_zP2FQsUW0UJ70Q/1781111518/manifest/sctv9/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv9
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
-https://vtvgolive-sctv.vtvdigital.vn/g07p7sLXbMyr5RK-cTcWmw/1781111520/asdfasdvgas2vtvsctv/10/masterh264.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/-ewNPxs-EFzdp49QvQMVzQ/1781111521/manifest/sctv11/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv11
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png", SCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/ZX2nIUu48Q2FIKq8bPzvaQ/1781111522/manifest/sctv12/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv12
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/PB0BXAnxMTMKboYXv7GOkA/1781111524/manifest/sctv13/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv13
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctv.vtvdigital.vn/kTJYke41OVBe5FWl4BcL-Q/1781111525/6GoYKNrTy3vtvsctv/14/masterh264.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv14
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16
-https://vtvgolive-sctvdrm.vtvdigital.vn/dloO2ClsEjPDO_tGVi1f0A/1781111527/manifest/sctv16/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/ydDxWF9ga6u3scoFvfn20A/1781111530/manifest/sctv18/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png", SCTV19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctv.vtvdigital.vn/_QXgqqBEFdFdIWTmpuA19Q/1781111531/5m63a995d8vtvsctv/19/index.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png", SCTV20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/Uz1OLRbSpCgZZ9xQ4NWSSw/1781118221/manifest/sctv20/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png", SCTV21 - Việt Nam Ký Ức
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctv.vtvdigital.vn/4VvczTboBzYJmBFLIWc5QQ/1781118222/bdnc6qbiq1vtvsctv/21/index.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png", SCTV22
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-sctvdrm.vtvdigital.vn/aOk1OXjtGQvLiqX54Lx_JA/1781118224/manifest/sctvpth/master.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctvphim
 #------------------------Box Phim------------------------#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
